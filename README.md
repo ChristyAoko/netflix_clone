@@ -1,2 +1,2 @@
 # Webpage
-HTML, CSS and Javascript landing page
+HTML, CSS and JavaScript landing page
